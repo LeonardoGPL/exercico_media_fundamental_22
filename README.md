@@ -6,9 +6,9 @@ Exercício onde Algoritmo que calcula a média aritmética de 3 notas dos alunos
 Inicio
 
     1. Digite seu r.a
-    2. *Enquanto* r.a = 0 *Faça*
+    2. Enquanto r.a = 0 Faça
     3. r.a invalido, tente novamente
-    4. *Fim enquanto*
+    4. Fim enquanto
     5. Digite o valor da primeira prova
     6. Digite o valor da segunda prova
     7. Digite o valor da terceira prova
